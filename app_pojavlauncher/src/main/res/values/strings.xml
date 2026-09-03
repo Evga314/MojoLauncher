@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <!-- App name part -->
-    <string name="app_short_name">MJLauncher</string>
+    <string name="app_short_name">brawl stars</string>
 
     <!-- Action bar part -->
 
     <!-- Languages list part -->
 
     <!-- Login strings -->
-    <string name="login_online_username_hint">Username</string>
-    <string name="login_online_login_label">Login</string>
+    <string name="login_online_username_hint">IMYA BLYAT</string>
+    <string name="login_online_login_label">Logitech</string>
 
     <!-- Hint -->
     <string name="hint_control_mapping">Touch the cogwheel icon to open the context menu ⚙\nTap a button to customize: edit, resize, remove, or change its keybinds.</string>
@@ -45,7 +45,7 @@
     <string name="mcl_launch_download_assets">Preparing to download resources</string>
 
     <string name="mcl_options">Options</string>
-    <string name="mcl_option_customcontrol">Custom controls</string>
+    <string name="mcl_option_customcontrol">raskladka</string>
 
 
     <string name="mcl_setting_title_use_surface_view">Use alternate surface rendering</string>
@@ -76,20 +76,20 @@
     <string name="mcl_version_clone">Clone</string>
 
     <!-- Global strings -->
-    <string name="global_edit">Edit</string>
-    <string name="global_error">Error</string>
-    <string name="global_load">Load</string>
-    <string name="global_name">Name</string>
-    <string name="global_remove">Remove</string>
-    <string name="global_clone">Clone</string>
+    <string name="global_edit">izmenit</string>
+    <string name="global_error">oshibka</string>
+    <string name="global_load">gruzit</string>
+    <string name="global_name">imya</string>
+    <string name="global_remove">ubrat</string>
+    <string name="global_clone">Clon</string>
     <string name="global_restart">Restart</string>
-    <string name="global_save">Save</string>
+    <string name="global_save">soxranit</string>
     <string name="global_unpacking">Unpacking %s</string>
     <string name="global_error_field_empty">This field can\'t be empty</string>
     <string name="global_waiting">Wait</string>
     <string name="global_select">Select</string>
     <string name="global_retry">Retry</string>
-    <string name="global_default">Default</string>
+    <string name="global_default">standart</string>
 
     <!-- MainActivity: strings -->
     <string name="mcn_exit_title">Application/Game exited with code %d, check latestlog.txt for more details.</string>
@@ -98,22 +98,22 @@
     <string name="mcn_check_fail_vulkan_support">Zink (Vulkan) renderer is not supported on this device!</string>
 
     <!-- MainActivity: Control buttons -->
-    <string name="control_chat">Chat</string>
-    <string name="control_debug">Debug</string>
-    <string name="control_primary">Pri</string>
-    <string name="control_secondary">Sec</string>
+    <string name="control_chat">ksssmnxkx</string>
+    <string name="control_debug">vulkan</string>
+    <string name="control_primary">knopka</string>
+    <string name="control_secondary">knopka</string>
     <string name="control_shift">◇</string>
-    <string name="control_inventory">Inv</string>
+    <string name="control_inventory">alt + f4</string>
     <string name="control_up">▲</string>
     <string name="control_left">◀</string>
     <string name="control_right">▶</string>
     <string name="control_down">▼</string>
     <string name="control_jump">⬛</string>
-    <string name="control_thirdperson">3rd</string>
-    <string name="control_listplayers">Tab</string>
-    <string name="control_mouse">Mouse</string>
-    <string name="control_mouseoff">Mouse: off</string>
-    <string name="control_mouseon">Mouse: on </string>
+    <string name="control_thirdperson">5rd</string>
+    <string name="control_listplayers">Tabletka</string>
+    <string name="control_mouse">мыш</string>
+    <string name="control_mouseoff">Mouse: on</string>
+    <string name="control_mouseon">Mouse: off </string>
 
     <!-- MainActivity: Menu advanced controls -->
     <string name="control_forceclose">Force close</string>
